@@ -2,8 +2,6 @@
 
 A Claude Code skill that switches output to summary-only mode - cutting reasoning, walkthroughs, and filler so you get just conclusions and results, saving tokens and keeping your context window clean.
 
-Inspired by the [Caveman Claude](https://github.com/om-patel5/Caveman-Claude) trend, but keeps proper grammar and professional tone.
-
 ## Install
 
 ```bash
